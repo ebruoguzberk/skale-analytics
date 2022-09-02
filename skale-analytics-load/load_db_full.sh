@@ -1,0 +1,7 @@
+#!/bin/sh
+python3 load_validators.py
+python3 load_nodes.py
+python3 load_bounties.py
+python3 load_delegations_full.py
+python3 load_transactions.py
+

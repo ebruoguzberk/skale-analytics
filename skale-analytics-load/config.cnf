@@ -1,0 +1,5 @@
+[mysql]
+host = localhost
+user = root
+password = put_the_pw_skale_analytics
+database = mainnet
